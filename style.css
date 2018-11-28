@@ -19,9 +19,11 @@
   width: 100px;
   transition: .2s;
 }
+
 .col:hover {
   background: #666;
 }
+
 .col:active {
   background: #E20057;
 }
