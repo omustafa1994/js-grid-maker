@@ -5,8 +5,8 @@ This homework was assigned to test my understanding of JavaScript. The task was 
 
 ### Languages used
 * JavaScript
-* HTML
 * CSS
+* HTML
 
 ### How to download
 1. Clone the Git repo
